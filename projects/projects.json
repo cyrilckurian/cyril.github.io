@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Newspill : AI news aggregator",
+    "desc": "Developed a news aggregation platform that improved consumption efficiency by providing succinct summaries, reducing information overload for users",
+    "image": "newspillmern",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/cyrilckurian/NewsPill",
+      "code": "https://github.com/cyrilckurian/NewsPill"
+    }
+  },
+  {
+    "name": "Taxi Office Internal Service Tracking",
+    "desc": "Web application for a taxi office internal service tracking system",
+    "image": "taxi",
+    "category": "django",
+    "links": {
+      "view": "https://github.com/kkharidev/Taxi_office_internal_service_tracking_system",
+      "code": "https://github.com/kkharidev/Taxi_office_internal_service_tracking_system"
+    }
+  },
+  {
+    "name": "Thatbot",
+    "desc": "Twitter bot using Python and Tweepy for saving twitter threads",
+    "image": "thatbot",
+    "category": "basicweb",
+    "links": {
+      "view": "https://github.com/cyrilckurian/tweetsthreader",
+      "code": "https://github.com/cyrilckurian/tweetsthreader"
+    }
+  }
+]
